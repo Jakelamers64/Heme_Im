@@ -1,9 +1,120 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
   <diagram name="Page-1" id="Yk4TckwagjJMfsidcHtQ">
-    <mxGraphModel>
+    <mxGraphModel dx="2145" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-1" target="AVcBIx0_U_spz7y-MlUt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-1" value="Transplants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-3" target="AVcBIx0_U_spz7y-MlUt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-3" target="AVcBIx0_U_spz7y-MlUt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-3" target="AVcBIx0_U_spz7y-MlUt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-3" value="features of a good match" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-5" value="same blood type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-7" value="same (close) MHC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-9" value="negative cross match screening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-11" target="AVcBIx0_U_spz7y-MlUt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-11" value="match HLA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-13" target="AVcBIx0_U_spz7y-MlUt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-13" value="chromosome 6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-15" target="AVcBIx0_U_spz7y-MlUt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-15" value="HLA A,b,DR most important for organ transplant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-17" target="AVcBIx0_U_spz7y-MlUt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-17" value="Bone marrow transplant needs more" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-19" target="AVcBIx0_U_spz7y-MlUt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-19" value="not matching can lead to Graft versus host disease" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-21" target="AVcBIx0_U_spz7y-MlUt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-21" value="Rejection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-23" target="AVcBIx0_U_spz7y-MlUt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-23" value="hyperacute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-25" target="AVcBIx0_U_spz7y-MlUt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-25" value="Acute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-27" target="AVcBIx0_U_spz7y-MlUt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-27" value="chromic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-29" target="AVcBIx0_U_spz7y-MlUt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-29" value="within minutes result of preformed antibodies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-31" target="AVcBIx0_U_spz7y-MlUt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-31" value="recipient T-cells react to graft via HLA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-33" target="AVcBIx0_U_spz7y-MlUt-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-33" value="Hallmark infiltration of lymphocytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-35" target="AVcBIx0_U_spz7y-MlUt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-35" value="hallmark is fibrosis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVcBIx0_U_spz7y-MlUt-37" target="AVcBIx0_U_spz7y-MlUt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVcBIx0_U_spz7y-MlUt-37" value="cell-mediated and humoral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
