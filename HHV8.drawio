@@ -1,9 +1,116 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
   <diagram name="Page-1" id="JouOI5M8G0TAtC5ILLV3">
-    <mxGraphModel>
+    <mxGraphModel dx="1745" dy="1083" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-1" target="tnTeIrDPf-JsjGq7o7GM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-1" target="tnTeIrDPf-JsjGq7o7GM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-1" target="tnTeIrDPf-JsjGq7o7GM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-1" value="HHV8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="293" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-2" value="symptoms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="-48" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-3" value="treatment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572" y="-1" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-4" value="complications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="699" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-5" value="features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="834" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.099;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-1" target="tnTeIrDPf-JsjGq7o7GM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-10" target="tnTeIrDPf-JsjGq7o7GM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.5" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-10" value="Kaposis sarcoma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-12" target="tnTeIrDPf-JsjGq7o7GM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-12" value="dsDNA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="541" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-14" target="tnTeIrDPf-JsjGq7o7GM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-14" value="Herpes virus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-16" target="tnTeIrDPf-JsjGq7o7GM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-16" value="immune suppression and aids" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="986" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-18" target="tnTeIrDPf-JsjGq7o7GM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-18" value="noted by lessions on nose, throat, extermities, gi tract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-99" y="-195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-20" target="tnTeIrDPf-JsjGq7o7GM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-20" value="angiogensis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="799" y="963" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-22" target="tnTeIrDPf-JsjGq7o7GM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-22" value="causesd by disreg of VegF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-25" target="tnTeIrDPf-JsjGq7o7GM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-25" value="most common in hard palete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-261" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-27" target="tnTeIrDPf-JsjGq7o7GM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-27" value="B-cell lymphoma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-182" y="-57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-29" target="tnTeIrDPf-JsjGq7o7GM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-29" value="transmission via kissing and sti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="834" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-31" target="tnTeIrDPf-JsjGq7o7GM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-31" value="HIV, russian men and endemic in africa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-33" target="tnTeIrDPf-JsjGq7o7GM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-33" value="lymphocytic infiltrate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="-104" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tnTeIrDPf-JsjGq7o7GM-35" target="tnTeIrDPf-JsjGq7o7GM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnTeIrDPf-JsjGq7o7GM-35" value="antiviral if patient is HIV pos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="563" y="-135" width="120" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
