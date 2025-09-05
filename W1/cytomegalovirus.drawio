@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
+  <diagram name="Page-1" id="3C2whTobifi5JhJwGnPj">
+    <mxGraphModel dx="1392" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-1" target="GrlDfSgPBEhTLA_O51CM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-1" target="GrlDfSgPBEhTLA_O51CM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-1" target="GrlDfSgPBEhTLA_O51CM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-1" target="GrlDfSgPBEhTLA_O51CM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-1" value="cytomegalovirus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-2" target="GrlDfSgPBEhTLA_O51CM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-2" target="GrlDfSgPBEhTLA_O51CM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-2" target="GrlDfSgPBEhTLA_O51CM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-2" target="GrlDfSgPBEhTLA_O51CM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-2" target="GrlDfSgPBEhTLA_O51CM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-2" value="features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-3" target="GrlDfSgPBEhTLA_O51CM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-3" target="GrlDfSgPBEhTLA_O51CM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-3" target="GrlDfSgPBEhTLA_O51CM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-3" target="GrlDfSgPBEhTLA_O51CM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-3" target="GrlDfSgPBEhTLA_O51CM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-3" target="GrlDfSgPBEhTLA_O51CM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-3" value="symptoms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-4" target="GrlDfSgPBEhTLA_O51CM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-4" target="GrlDfSgPBEhTLA_O51CM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-4" value="complications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-5" value="treatment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-10" value="dsDNA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-12" value="herpesvirus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-14" value="latent in mononuclear cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-16" value="common fetal virus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-20" value="blue muffin rash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-22" value="jaundice and hepatosplenomegaly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-24" value="deafnisse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-26" value="ventrimegeloy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-28" value="periventricalar calcification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-30" value="seizures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-32" value="more likely to be asymptomatic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-34" value="hydrops fatalis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-36" target="GrlDfSgPBEhTLA_O51CM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-36" value="can re-activate during organ transplant and HIV patients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-38" target="GrlDfSgPBEhTLA_O51CM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-38" value="leads to CMV pneumonia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-40" target="GrlDfSgPBEhTLA_O51CM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-40" value="CMV retinitis and linear ulcerations esophagus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-42" target="GrlDfSgPBEhTLA_O51CM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-42" value="owls bodies cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-44" target="GrlDfSgPBEhTLA_O51CM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-44" value="ganciclovir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-46" target="GrlDfSgPBEhTLA_O51CM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-46" value="fascarnet (UL97 mutation)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-48" value="CMV mononucleousis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrlDfSgPBEhTLA_O51CM-50" target="GrlDfSgPBEhTLA_O51CM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrlDfSgPBEhTLA_O51CM-50" value="negative monospot test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
