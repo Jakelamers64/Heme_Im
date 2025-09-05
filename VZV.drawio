@@ -1,9 +1,174 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
   <diagram name="Page-1" id="HXEb3nd8SX6U1GZ752-f">
-    <mxGraphModel>
+    <mxGraphModel dx="1343" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-1" target="EhEZJ5dF5t3Zo_Un5vQ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-1" target="EhEZJ5dF5t3Zo_Un5vQ4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-1" target="EhEZJ5dF5t3Zo_Un5vQ4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-1" target="EhEZJ5dF5t3Zo_Un5vQ4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-1" value="VZV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-2" value="treatment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-4" target="EhEZJ5dF5t3Zo_Un5vQ4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-4" target="EhEZJ5dF5t3Zo_Un5vQ4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-4" target="EhEZJ5dF5t3Zo_Un5vQ4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-4" target="EhEZJ5dF5t3Zo_Un5vQ4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-4" value="symptoms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-6" target="EhEZJ5dF5t3Zo_Un5vQ4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-6" target="EhEZJ5dF5t3Zo_Un5vQ4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-6" target="EhEZJ5dF5t3Zo_Un5vQ4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-6" target="EhEZJ5dF5t3Zo_Un5vQ4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-6" value="features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-8" value="Herpes virus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-10" value="envoloped" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-12" value="dsDNA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-15" value="fever" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-4" target="EhEZJ5dF5t3Zo_Un5vQ4-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-17" value="Headache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-19" value="chicken pox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-21" value="respiratory drop transimission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-23" value="lessions in different stages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-25" value="multi nucleated giant cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-27" target="EhEZJ5dF5t3Zo_Un5vQ4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-27" target="EhEZJ5dF5t3Zo_Un5vQ4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-27" value="complications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-29" value="adult pneumonia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-31" value="enchpilitis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-33" target="EhEZJ5dF5t3Zo_Un5vQ4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-33" value="escpicially in immuno comprimised" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-35" target="EhEZJ5dF5t3Zo_Un5vQ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-35" value="live attenuated vaccine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-37" target="EhEZJ5dF5t3Zo_Un5vQ4-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-37" value="acyclovir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-39" target="EhEZJ5dF5t3Zo_Un5vQ4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-39" value="latent in dorsal root ganglia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-41" target="EhEZJ5dF5t3Zo_Un5vQ4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-41" value="reactivation in elderly and immunocomprmised called shingles herpes zoster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-100" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-43" target="EhEZJ5dF5t3Zo_Un5vQ4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-43" value="postherpetic neralgia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-45" target="EhEZJ5dF5t3Zo_Un5vQ4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-45" value="herpers zoster opthalmicus - vision loss in V1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-47" target="EhEZJ5dF5t3Zo_Un5vQ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-47" value="zoster vaccine for shingles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-49" target="EhEZJ5dF5t3Zo_Un5vQ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-49" value="famcyclovir for shingles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-51" target="EhEZJ5dF5t3Zo_Un5vQ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-51" value="valcyclovir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhEZJ5dF5t3Zo_Un5vQ4-53" target="EhEZJ5dF5t3Zo_Un5vQ4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhEZJ5dF5t3Zo_Un5vQ4-53" value="if pregnant baby can develop is congential varicella sysndrom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
