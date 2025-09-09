@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
+  <diagram name="Page-1" id="ihsEptbj1dVgw48OXknz">
+    <mxGraphModel dx="1345" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cJeonPDIsa_4x_l95cZh-1" value="Platelets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-2" target="cJeonPDIsa_4x_l95cZh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-2" target="cJeonPDIsa_4x_l95cZh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-2" value="white thrombis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-4" value="firbin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-6" value="VWF binds collegen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-7" target="cJeonPDIsa_4x_l95cZh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-7" value="platlets then bind via GplbR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-9" target="cJeonPDIsa_4x_l95cZh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-9" value="A-granules of platlets or endothelial cells release" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-11" target="cJeonPDIsa_4x_l95cZh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-11" value="ADAMTS13 breaks down vWF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-13" target="cJeonPDIsa_4x_l95cZh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-13" target="cJeonPDIsa_4x_l95cZh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-13" value="relase ADP and Ca2+ release deep dense granules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-15" value="Adhesion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-16" value="Activation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-17" target="cJeonPDIsa_4x_l95cZh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-17" value="binds to P2Y12 receptor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cJeonPDIsa_4x_l95cZh-19" target="cJeonPDIsa_4x_l95cZh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-19" value="GpIIb/IIaR receptor increases platelet on cell surface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-21" value="binds fibringogen and links platlets together" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-23" value="Aggregation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJeonPDIsa_4x_l95cZh-25" value="Arachidonic acid converted to thromboxane A2 via COX increaseing vasoconstriction and platlet activation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="750" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
