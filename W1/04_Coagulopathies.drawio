@@ -1,0 +1,318 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.0">
+  <diagram name="Page-1" id="2vXszL9hN0PnPAnbEwFU">
+    <mxGraphModel dx="2474" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-1" target="8d1F4OMr9MlvIiAA_VZP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-1" target="8d1F4OMr9MlvIiAA_VZP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-1" target="8d1F4OMr9MlvIiAA_VZP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-1" target="8d1F4OMr9MlvIiAA_VZP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-1" value="Coagulopathies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-2" target="8d1F4OMr9MlvIiAA_VZP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-2" target="8d1F4OMr9MlvIiAA_VZP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-2" target="8d1F4OMr9MlvIiAA_VZP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-2" target="8d1F4OMr9MlvIiAA_VZP-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-2" target="8d1F4OMr9MlvIiAA_VZP-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-2" value="coag cascade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-3" target="8d1F4OMr9MlvIiAA_VZP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-3" target="8d1F4OMr9MlvIiAA_VZP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-3" target="8d1F4OMr9MlvIiAA_VZP-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="150" />
+              <mxPoint x="800" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-3" target="8d1F4OMr9MlvIiAA_VZP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-3" target="8d1F4OMr9MlvIiAA_VZP-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-3" value="Abnormal platelets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-4" target="8d1F4OMr9MlvIiAA_VZP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-4" target="8d1F4OMr9MlvIiAA_VZP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-4" target="8d1F4OMr9MlvIiAA_VZP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-4" value="Mixed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-8" target="8d1F4OMr9MlvIiAA_VZP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-8" target="8d1F4OMr9MlvIiAA_VZP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-8" target="8d1F4OMr9MlvIiAA_VZP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-8" target="8d1F4OMr9MlvIiAA_VZP-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-8" target="8d1F4OMr9MlvIiAA_VZP-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-8" value="Hemophilia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-10" value="vitamin K deficiency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-12" value="Bernard-soulier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-14" value="Glanzamans thrombasthenia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-16" value="ITP, TTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-18" value="Uremia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-20" value="Von Willebrand Disease" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-22" value="DIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-24" value="Liver disease" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-26" target="8d1F4OMr9MlvIiAA_VZP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-26" target="8d1F4OMr9MlvIiAA_VZP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-26" target="8d1F4OMr9MlvIiAA_VZP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-26" target="8d1F4OMr9MlvIiAA_VZP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-26" value="coag tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-28" value="platlet time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-30" value="PTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-32" value="PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-34" value="thrombin time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-36" value="superficial bleeding (petechiae)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-38" value="deep tissue or joint bleeding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-40" value="x-linked recessive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="-215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-42" target="8d1F4OMr9MlvIiAA_VZP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-42" value="Hemophilia A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-44" value="deficiency in factor VIII" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-155" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-46" target="8d1F4OMr9MlvIiAA_VZP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-46" value="Hemophilia B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-48" value="factor IX deficiency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-50" value="recurrent joint bleeds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-52" value="prolonged PTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-54" target="8d1F4OMr9MlvIiAA_VZP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-54" target="8d1F4OMr9MlvIiAA_VZP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-54" value="treatment is replacement of&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-59" target="8d1F4OMr9MlvIiAA_VZP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-59" value="Desmopressin increases vWF and factor VIII levels by release from endothlial cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-61" target="8d1F4OMr9MlvIiAA_VZP-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-61" value="vasodilating leading to flushing and headache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-63" value="admin aminocarproic acid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-64" target="8d1F4OMr9MlvIiAA_VZP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-64" value="cryoprecipitate to replace factor VIII and fibrinogen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-66" target="8d1F4OMr9MlvIiAA_VZP-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-66" value="coag factor inhibitors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-68" value="inhibitor antibody of factor VIII" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-70" target="8d1F4OMr9MlvIiAA_VZP-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-70" value="treatment with predisone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-72" target="8d1F4OMr9MlvIiAA_VZP-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-72" value="present similar to hemophilia&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-74" target="8d1F4OMr9MlvIiAA_VZP-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-74" value="need to preform mixing study to determine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-76" target="8d1F4OMr9MlvIiAA_VZP-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-76" value="hemophilia PTT will return to 50 % normal but anti-coag antibodies wont" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-78" target="8d1F4OMr9MlvIiAA_VZP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-78" value="bleeding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-830" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-80" target="8d1F4OMr9MlvIiAA_VZP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-80" value="elevated and PT/INR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-82" target="8d1F4OMr9MlvIiAA_VZP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-82" value="normal bleeding time and kinda PTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-84" target="8d1F4OMr9MlvIiAA_VZP-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-84" value="sensitive because factor 7 has the shortest half life" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-86" target="8d1F4OMr9MlvIiAA_VZP-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="-800" />
+              <mxPoint x="-30" y="-800" />
+              <mxPoint x="-30" y="-620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-86" value="caused by antibiotics, warfarin, newborns and malabsrpotion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-88" value="blood transfusion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-90" target="8d1F4OMr9MlvIiAA_VZP-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-90" value="dilute clotting factors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-92" target="8d1F4OMr9MlvIiAA_VZP-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-92" value="treated with fresh frozen plasma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-94" target="8d1F4OMr9MlvIiAA_VZP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-94" value="liver disease" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-96" target="8d1F4OMr9MlvIiAA_VZP-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-96" value="decreased clotting factors because of lack of synth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-98" target="8d1F4OMr9MlvIiAA_VZP-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-98" value="PT test is most sensitive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8d1F4OMr9MlvIiAA_VZP-100" target="8d1F4OMr9MlvIiAA_VZP-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d1F4OMr9MlvIiAA_VZP-100" value="thrmobocytopenia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
