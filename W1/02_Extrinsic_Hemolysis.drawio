@@ -1,0 +1,261 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.2">
+  <diagram name="Page-1" id="aMbk1s5AR8xBIqTNzXPH">
+    <mxGraphModel dx="2195" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vpqleht66YTsTtMB9ANk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-1" target="vpqleht66YTsTtMB9ANk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-1" target="vpqleht66YTsTtMB9ANk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-1" target="vpqleht66YTsTtMB9ANk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-1" target="vpqleht66YTsTtMB9ANk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-1" target="vpqleht66YTsTtMB9ANk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-12" value="causes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vpqleht66YTsTtMB9ANk-11">
+          <mxGeometry x="-0.0091" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-1" value="Extrinsic Hemolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-2" target="vpqleht66YTsTtMB9ANk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-2" target="vpqleht66YTsTtMB9ANk-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-2" value="AIHA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-4" value="MAHA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-6" value="Mechanical" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-8" value="Infection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-10" value="Antibodies, Trauma/shearing, red cell infections" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-13" target="vpqleht66YTsTtMB9ANk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-13" value="autoantibodies lead to red cell destruction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="85" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-15" target="vpqleht66YTsTtMB9ANk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-15" value="RBC removed by spleen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-17" target="vpqleht66YTsTtMB9ANk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-17" target="vpqleht66YTsTtMB9ANk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-17" value="Warm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-19" value="antibodies bind at body temp 37oC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-21" value="IgG antibodies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-22" target="vpqleht66YTsTtMB9ANk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-22" value="Symptoms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-24" value="Anemia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-25" value="Extravascular hemolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-26" value="spherocytes (smaller than normal RBCs)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-27" target="vpqleht66YTsTtMB9ANk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-27" value="tests to determine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-29" value="reticulocyte count is normal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-31" target="vpqleht66YTsTtMB9ANk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-31" value="DAT or Coombs test is a test for RBCs IgG antibodies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-33" target="vpqleht66YTsTtMB9ANk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-33" value="Indirect coombs test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-35" target="vpqleht66YTsTtMB9ANk-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-35" value="test for antibodies in the serum for antibodies for RBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-37" value="can use any antibodies (good for mothers)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-38" target="vpqleht66YTsTtMB9ANk-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-38" value="Cold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-40" target="vpqleht66YTsTtMB9ANk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-40" value="associated with: Lupus, Non-hodgkin lymphoma, Chronic lympocytic leukemia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-42" value="alpha-methyldopa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-43" target="vpqleht66YTsTtMB9ANk-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-43" value="Direct coombs test positive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-45" value="penicllin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-46" target="vpqleht66YTsTtMB9ANk-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-46" value="becomes hapten when bound to RBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-48" target="vpqleht66YTsTtMB9ANk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-48" value="treated with: Glucocorticoids, immunosuppressants, splenectomy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-50" value="Antibodies bind to RBC less than 30c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-52" target="vpqleht66YTsTtMB9ANk-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-52" value="occurs in limbs, fingertips, toes, nose and ears" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-54" value="purple discoloration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-55" target="vpqleht66YTsTtMB9ANk-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-55" value="caused by IgM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-57" target="vpqleht66YTsTtMB9ANk-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-57" value="leaves C3 on RBC DAT positive only for C3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-59" target="vpqleht66YTsTtMB9ANk-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-59" value="C3 coated RBC removed by the spleen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-61" target="vpqleht66YTsTtMB9ANk-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-61" value="less likely to see spherocytosis because RBC engulfed whole" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-64" target="vpqleht66YTsTtMB9ANk-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-64" value="seen in CLL, mycoplasma pneumonia, EBV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-66" value="treatment: avoid cold, immunosuppresants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.869;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-66" target="vpqleht66YTsTtMB9ANk-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-68" target="vpqleht66YTsTtMB9ANk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-68" value="shearing of RBC in small blood vessels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-70" target="vpqleht66YTsTtMB9ANk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-70" value="blood smear: schistocytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-72" target="vpqleht66YTsTtMB9ANk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-72" value="seen in TTP, HUS, DIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-74" value="malignant hypertension" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-75" target="vpqleht66YTsTtMB9ANk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-75" value="shear forces in large blood vessels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-77" target="vpqleht66YTsTtMB9ANk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-77" value="seen in aortic stenosis, mechanical heat valves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-79" target="vpqleht66YTsTtMB9ANk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-79" value="schistocytes seen on blood smear" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-81" target="vpqleht66YTsTtMB9ANk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-81" value="RBC infection: malaria, Babesia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vpqleht66YTsTtMB9ANk-83" target="vpqleht66YTsTtMB9ANk-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpqleht66YTsTtMB9ANk-83" value="removal of infected cells by spleen or explosion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
