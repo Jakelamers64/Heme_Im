@@ -1,0 +1,270 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.3">
+  <diagram name="Page-1" id="USFx2qQlHdeA7opXurbG">
+    <mxGraphModel dx="2195" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-1" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-1" target="BO_fKhhY4Z2RmEIphCQF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-1" target="BO_fKhhY4Z2RmEIphCQF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-1" target="BO_fKhhY4Z2RmEIphCQF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-1" target="BO_fKhhY4Z2RmEIphCQF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-1" target="BO_fKhhY4Z2RmEIphCQF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-1" value="Intrinsic Hemolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-2" value="PNH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-4" value="PK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-6" target="BO_fKhhY4Z2RmEIphCQF-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-6" value="G6PD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-8" value="Spherocytosis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-10" value="sickle cell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-14" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-14" value="PBC destruction via complement system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-16" target="BO_fKhhY4Z2RmEIphCQF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-16" value="loss of protective protiens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-18" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-18" value="predominantly intravascular hemolysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-20" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-20" value="acuired condition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-22" target="BO_fKhhY4Z2RmEIphCQF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-22" value="HP stem cells get gene mutation that loss a GPI anchor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-24" target="BO_fKhhY4Z2RmEIphCQF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-24" value="also affect platlets and WBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-26" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-26" value="causes hemolysis at night" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-28" target="BO_fKhhY4Z2RmEIphCQF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-28" value="slower RR leads to higher complement activation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-30" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-30" value="iron deficiency common, abdominal pain, thrombosis, AML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-32" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="-470" />
+              <mxPoint x="670" y="-405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-32" value="negative coobs test, confirm via flow cytometry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-34" target="BO_fKhhY4Z2RmEIphCQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-34" value="treat with Eculizumab: anti complemnt antibody stops C5 cleveage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-36" target="BO_fKhhY4Z2RmEIphCQF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-36" target="BO_fKhhY4Z2RmEIphCQF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-36" value="PK deficiency leading to lack of glycolysis and RBC membrane failures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-38" value="leads to phagocytosis by the spleen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-40" target="BO_fKhhY4Z2RmEIphCQF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-40" value="autosommal receesive, common in newborns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-42" target="BO_fKhhY4Z2RmEIphCQF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-42" value="Key enzyme: HMP shunt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-44" target="BO_fKhhY4Z2RmEIphCQF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-44" value="leads to high oxidative damage because of lack of NADPH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-46" target="BO_fKhhY4Z2RmEIphCQF-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-46" value="high h202" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-48" target="BO_fKhhY4Z2RmEIphCQF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-48" value="X-linked recessive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-50" target="BO_fKhhY4Z2RmEIphCQF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-50" value="recurrent hemolysis to certian trigers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-52" target="BO_fKhhY4Z2RmEIphCQF-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-52" value="weakens membrane consumed by spleen or can explode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-54" target="BO_fKhhY4Z2RmEIphCQF-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-54" value="include anti-malarials and sulfa drugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-56" target="BO_fKhhY4Z2RmEIphCQF-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-56" value="high prevalence in Africa, asia, mediteranean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-58" value="classic presentation on plasma blood smear: Heinz bodies and bite cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-60" target="BO_fKhhY4Z2RmEIphCQF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-60" value="test is fluorescent spot test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-62" target="BO_fKhhY4Z2RmEIphCQF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-62" value="hereditary disorder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-64" target="BO_fKhhY4Z2RmEIphCQF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-64" value="proteins that tie cytoskeleton to RBC membrane" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-66" target="BO_fKhhY4Z2RmEIphCQF-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-66" value="invovles spectrin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-68" target="BO_fKhhY4Z2RmEIphCQF-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-68" value="abnormal protiens leads to rigid membrane making cell getting consumed by spleen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="745" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-70" target="BO_fKhhY4Z2RmEIphCQF-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-70" value="leads to chronic destruction in spleen leading to splenomegaly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-72" target="BO_fKhhY4Z2RmEIphCQF-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-72" value="progressive loss of cell membrane" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-74" target="BO_fKhhY4Z2RmEIphCQF-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-74" value="high RDW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-76" target="BO_fKhhY4Z2RmEIphCQF-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-76" value="volume does not change = high MCHC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-78" target="BO_fKhhY4Z2RmEIphCQF-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-78" value="more rigid membrane leads to higher resistance to blood flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-80" target="BO_fKhhY4Z2RmEIphCQF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-80" value="at risk of aplastic crisis if they become infected with parovirus B19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-82" value="diagnosis via osmotic fragility test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.192;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-82" target="BO_fKhhY4Z2RmEIphCQF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BO_fKhhY4Z2RmEIphCQF-84" target="BO_fKhhY4Z2RmEIphCQF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BO_fKhhY4Z2RmEIphCQF-84" value="treatment is to remove the spleen (spenectomy)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
